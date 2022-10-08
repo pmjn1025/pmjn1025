@@ -1,4 +1,3 @@
-(https://github-readme-stats.vercel.app/api?username=pmjn1025s&show_icons=true&theme=tokyonight)
 
 
 <!--
