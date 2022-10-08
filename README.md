@@ -1,6 +1,6 @@
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=blue&height=200&section=footer&text=SaGo_MunGcci's%20GitHub&fontSize=50)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=SaGo_MunGcci's%20GitHub&fontSize=50)  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmjn1025&show_icons=true&theme=radical)  
 
