@@ -1,4 +1,6 @@
 <div align="center">  
+
+![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=footer&text=Hi%20There&fontSize=100)  
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmjn1025&show_icons=true&theme=radical)  
 
