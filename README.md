@@ -1,4 +1,5 @@
-### Hi there 👋
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pmjn1025s&show_icons=true&theme=tokyonight)
+
 
 <!--
 **pmjn1025/pmjn1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
