@@ -1,9 +1,9 @@
-
+<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pmjn1025&show_icons=true&theme=radical)  
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pmjn1025&layout=compact&theme=tokyonight)
-
+</div>
 <!--
 **pmjn1025/pmjn1025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
